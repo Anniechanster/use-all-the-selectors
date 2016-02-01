@@ -29,6 +29,10 @@ nav ul {
   background-color: #b58900;
 }
 
-strong + .dfn {
+.dfn p + strong {
   color: #fff;
+}
+
+html body header nav ul li mark {
+  background-color: #719e07;
 }
